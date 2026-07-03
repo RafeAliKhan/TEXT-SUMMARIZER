@@ -7,3 +7,10 @@ Paste long text → get summary.
 ## Benifit
 
 Most are behind AI paywalls
+
+---
+
+## Features
+
+-> collapsing into bullet points with an animated compression effect. <br>
+->  it's not just landing page but functional app (React with state, input fields, calls to API). Need good UX with input area, output area, controls (format toggle, length slider), copy/download buttons, loading state.
