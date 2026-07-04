@@ -4,6 +4,10 @@ Paste long text → get summary.
 
 ---
 
+<img width="890" height="645" alt="image" src="https://github.com/user-attachments/assets/02cb9b1e-054b-4667-afa8-881a7c82783a" />
+
+---
+
 ## Benifit
 
 Most are behind AI paywalls
