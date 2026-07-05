@@ -9,7 +9,8 @@ Paste long text → get summary.
 ---
 
 ## Benifit
-
+URL summarization — pasting a link and fetching the live page requires a server (browsers block cross-origin fetches from arbitrary sites). You'd add a small backend endpoint that fetches + strips HTML, then feeds the text in.<br>
+Streaming output — showing the summary token-by-token instead of waiting for the full response.<br>
 Most are behind AI paywalls
 
 ---
